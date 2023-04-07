@@ -37,6 +37,7 @@ It is based on a pre-trained Image Classification Model that comes with Keras an
 \n**Accuracy :** **`85%`**
 \n**Model :** **`EfficientNetB1`**
 \n**Dataset :** **`Food101`**
+\n**Created by :** **400level Computer Science group 1**
 """)
 
 
@@ -49,7 +50,7 @@ file = st.file_uploader(label="Upload an image of food.",
                         type=["jpg", "jpeg", "png"])
 
 
-model = tf.keras.models.load_model("./models/Food_vision_model.hdf5")
+model = tf.keras.models.load_model("./models/EfficientNetB1.hdf5")
 
 
 st.sidebar.markdown("Created by **400level Computer Science group 1**")
