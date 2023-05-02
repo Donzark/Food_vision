@@ -57,7 +57,7 @@ st.sidebar.markdown("**Supervised by :** **Dr. A Tosho**")
 st.sidebar.markdown(body="""
 <th style="border:None"><a href="https://twitter.com/_donzark" target="blank"><img align="center" src="https://bit.ly/3wK17I6" alt="_donzark" height="40" width="40" /></a></th>
 <th style="border:None"><a href="https://linkedin.com/in/donzark" target="blank"><img align="center" src="https://bit.ly/3wCl82U" alt="donzark" height="40" width="40" /></a></th>
-<th style="border:None"><a href="https://github.com/Donzark" target="blank"><img align="center" src="https://bit.ly/3c2onZS" alt="donzark" height="40" width="40" /></a></th>
+<th style="border:None"><a href="https://github.com/Donzark" target="blank"><img align="center" src="https://bit.ly/3c2onZS" alt="Group1" height="40" width="40" /></a></th>
 <th style="border:None"><a href="https://instagram.com/donzark" target="blank"><img align="center" src="https://bit.ly/3oZABHZ" alt="donzark" height="40" width="40" /></a></th>
 """, unsafe_allow_html=True)
 
