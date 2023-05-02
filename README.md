@@ -29,8 +29,6 @@ Once I got the App working on my local device I then deployed it using Streamlit
 
 > The app may take a couple of seconds to load for the first time, but it works perfectly fine.
 
-https://user-images.githubusercontent.com/57211163/214333702-7a666c70-3499-470d-8b39-fc37374950ab.mp4
-
 Once an app is loaded, 
 
 1. Upload an image of food. If you dont have one, use the images from `food-images/`
