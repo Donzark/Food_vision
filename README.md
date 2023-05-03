@@ -2,7 +2,7 @@
 
 
 
-As a class project for CMP403 (Artificial Inteligence) supervised by Dr. Tosho A, We built an end-to-end **CNN Image Classification Model** which identifies the food in your image. 
+As a class project for CMP411 (Artificial Inteligence) supervised by Dr. Tosho A, We built an end-to-end **CNN Image Classification Model** which identifies the food in your image. 
 
 We worked out with a pre-trained Image Classification Model that comes with Keras and then retrained it on the infamous **Food101** Dataset.
 
